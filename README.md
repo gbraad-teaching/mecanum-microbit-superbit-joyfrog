@@ -1,6 +1,8 @@
 Micro:bit (Mecanum) Omni-bot - Using Yahboom Super:bit + KittenBot Joyfrog protocol
 ===================================================================================
 
+![Super:bit + JoyFrog](superbit-joyfrog.png)
+
 Requires
 --------
   * Yahboom Super:bit
